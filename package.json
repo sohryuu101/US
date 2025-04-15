@@ -9,8 +9,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^4.21.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohryuu101/US.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sohryuu101/US/issues"
+  },
+  "homepage": "https://github.com/sohryuu101/US#readme",
+  "description": ""
 }
