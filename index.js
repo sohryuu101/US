@@ -9,6 +9,7 @@ app.get('/', (req, res) => {
     // redirect to /website
     res.send({
         message: 'Hello from MY ORIGIN SERVER!',
+        hello: 'this is updated content to see if CDN changed',
         time: new Date().toISOString(),
         status: 200
     });
